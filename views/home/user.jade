@@ -1,0 +1,34 @@
+extends layout
+
+block header
+	.clearfix
+		.col-md-3
+			- if (user_open.image)
+				img(src='/#{user_open.image}', alt='#{user_open.username}', height='150', width='150').img-thumbnail
+			- else
+				img(src='/default.jpg', alt='#{user.username}', height='150', width='150').img-thumbnail
+		.col-md-9
+			h3= user_open.username
+			- if (user_open._id != user._id)
+				- if (follow)
+					a(href='/unfollow/#{user_open._id}').btn.btn-danger Unfollow
+				- else
+					a(href='/follow/#{user_open._id}').btn.btn-success Follow
+
+block content
+	.col-md-6
+	.col-md-6
+		if (posts.length == 0)
+			.clearfix
+				.col-md-2
+				.col-md-10
+					b
+						| Bako hasn't posted yet
+
+		each post in posts
+			.col-md-2
+			
+			.col-md-10
+				b
+					a(href='/user/#{post.author_id}') #{post.author}
+				p #{post.content}

@@ -1,0 +1,1096 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"use",
+				"users"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"user",
+				"users_result"
+			],
+			[
+				"users",
+				"users_result"
+			],
+			[
+				"data",
+				"database_filepath"
+			],
+			[
+				"usr",
+				"user_id"
+			],
+			[
+				"req",
+				"req	require"
+			],
+			[
+				"ima",
+				"image_path"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"hre",
+				"href"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"po",
+				"posts"
+			],
+			[
+				"re",
+				"regex"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"fol",
+				"followers_count_result"
+			],
+			[
+				"foll",
+				"followers_count"
+			],
+			[
+				"fo",
+				"follow"
+			],
+			[
+				"tw",
+				"tweets_count"
+			],
+			[
+				"tweet",
+				"tweets_count"
+			],
+			[
+				"co",
+				"col-md-6"
+			],
+			[
+				"col",
+				"col-md-3"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"session",
+				"session_owner"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"obj",
+				"ObjectId"
+			],
+			[
+				"user_",
+				"user_open"
+			],
+			[
+				"ob",
+				"obj_id"
+			],
+			[
+				"TIME",
+				"TIMESTAMP"
+			],
+			[
+				"int",
+				"INTO"
+			],
+			[
+				"sele",
+				"SELECT"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"pl",
+				"plusID"
+			],
+			[
+				"js",
+				"json_a"
+			],
+			[
+				"ema",
+				"emailContent"
+			],
+			[
+				"send",
+				"sendHTMLemail"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "router.js",
+			"settings":
+			{
+				"buffer_size": 1441,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 889,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/auth.js",
+			"settings":
+			{
+				"buffer_size": 2379,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/home.js",
+			"settings":
+			{
+				"buffer_size": 1636,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/user.js",
+			"settings":
+			{
+				"buffer_size": 2399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/home/user.jade",
+			"settings":
+			{
+				"buffer_size": 795,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/home/index.jade",
+			"settings":
+			{
+				"buffer_size": 1313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/settings.js",
+			"settings":
+			{
+				"buffer_size": 1440,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/home/settings.jade",
+			"settings":
+			{
+				"buffer_size": 467,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/home/layout.jade",
+			"settings":
+			{
+				"buffer_size": 946,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/search.js",
+			"settings":
+			{
+				"buffer_size": 884,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/home/search.jade",
+			"settings":
+			{
+				"buffer_size": 651,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/tweet.js",
+			"settings":
+			{
+				"buffer_size": 636,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mina",
+				"View: Toggle Minimap"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"toggle map",
+				"View: Toggle Minimap"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"encod",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"server",
+				"SFTP: Setup Server…"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indet",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"addre",
+				"Package Control: Add Repository"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgra	",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/os/Raspbian/partitions.json",
+		"/G/os/Raspbian/os.json",
+		"/G/recovery.cmdline",
+		"/G/os/Raspbian/flavours.json",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/twitter/views/home/user.jade",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/twitter/routes/home.js",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/routes/site.js",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/views/site/index.jade",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/views/home/layout.jade",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/twitter/router.js",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/twitter/server.js",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/twitter/views/home/layout.jade",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/twitter/views/home/index.jade",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/routes/tweet.js",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/routes/search.js",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/views/home/search.jade",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/routes/index.js",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/views/home/index.jade",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/views/home/user.jade",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/views/site/layout.jade",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/public/css/bootstrap.css",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/package.json",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/views/index.jade",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/views/home/settings.jade",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/twitter/package.json",
+		"/C/Users/Tisho/Desktop/Mongo course/final project/hirundo/app.js",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1386111268/helpcredit/hc_forms/send.php",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1387113991/helpcredit/hc_forms/jsonRead.php",
+		"/C/Users/Tisho/Downloads/Avans_OU_27.html",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1386111139/helpcredit/hc_forms/credit-plus.php",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1386023705/helpcredit/TC_Avans.html",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1386023598/helpcredit/hc_avans.html",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1387228099/helpcredit/hc_forms/send-avans.php",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1386107966/helpcredit/TC_Plus.html",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1386094036/helpcredit/hc_forms/credit-avans.php",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1387124445/helpcredit/hc_forms/IDs.json",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1386022093/helpcredit/index.html",
+		"/C/Users/Tisho/Desktop/SEB/README.txt",
+		"/C/Users/Tisho/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Tisho/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Program Files (x86)/EasyPHP-DevServer-13.1VC11/data/localweb/contacts/header.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-13.1VC11/data/localweb/ExpensesMonitor/extends.txt",
+		"/C/Users/Tisho/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1388649947/office/aux0/customer/services/mlpk_resource_tranfer/getAmounts.php",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1388649997/office/aux0/customer/services/mlpk_resource_tranfer/getProfile.php",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1388650010/office/aux0/customer/services/mlpk_resource_tranfer/parseResponseSMS.php",
+		"/C/Users/Tisho/Desktop/stored procedures.sql",
+		"/C/Users/Tisho/Documents/SU/5 semestyr/SOZ/VSOZ_2.txt",
+		"/C/Users/Tisho/Documents/SU/5 semestyr/SOZ/VSOZ.txt",
+		"/C/Users/Tisho/Downloads/service_MBPK_RT_20140103171139.xml",
+		"/C/Users/Tisho/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/office",
+		"/C/Users/Tisho/Desktop/Mongo course/domashno4/query.txt",
+		"/C/Users/Tisho/Desktop/Mongo course/domashno4/db.txt",
+		"/C/Users/Tisho/Desktop/Mongo course/domashno3/DB files.txt",
+		"/C/Program Files/OpenVPN/config/key.txt",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1386094302/helpcredit/hc_forms/style.css",
+		"/C/Users/Tisho/Desktop/Mongo course/domashno1/fn71299_zadacha4D.txt",
+		"/C/Users/Tisho/Desktop/Mongo course/domashno1/fn71299_zadacha1D.txt",
+		"/C/Users/Tisho/Desktop/Mongo course/domashno3/queries.txt",
+		"/C/Users/Tisho/Desktop/Mongo course/domashno1/fn71299_zadacha3D.txt",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1386094880/helpcredit/hc_forms/send-avans.php",
+		"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1387113762/helpcredit/hc_forms/numbers.json",
+		"/C/Users/Tisho/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/helpcredit",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Windows/System32/drivers/etc/hosts.ics",
+		"/C/Users/Tisho/Desktop/email.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"png",
+			"collection",
+			"posts_collection",
+			"collection",
+			"user",
+			"username",
+			"user",
+			"jpg",
+			"png",
+			"random_id",
+			"console",
+			"Hirundo",
+			"hir",
+			"user",
+			"follower_count",
+			"Twitter Clone",
+			"DB",
+			"db",
+			"name",
+			"code",
+			"код",
+			"\"show_encoding\"",
+			"auto",
+			"851",
+			"1",
+			"lCount",
+			"1",
+			"lExists",
+			"subs_id",
+			"lSubsID",
+			"DATE",
+			"80",
+			"800",
+			"NULL",
+			"<var",
+			"],",
+			"help",
+			"><",
+			"</",
+			"\">",
+			"hr",
+			"><",
+			"\">",
+			"><",
+			"</",
+			"><",
+			"\"",
+			"”",
+			"“",
+			"„",
+			"общи"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "router.js",
+					"settings":
+					{
+						"buffer_size": 1441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1420,
+								1427
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								733,
+								733
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "routes/auth.js",
+					"settings":
+					{
+						"buffer_size": 2379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1576,
+								1576
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "routes/home.js",
+					"settings":
+					{
+						"buffer_size": 1636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1518,
+								1524
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 37.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "routes/user.js",
+					"settings":
+					{
+						"buffer_size": 2399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/home/user.jade",
+					"settings":
+					{
+						"buffer_size": 795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "views/home/index.jade",
+					"settings":
+					{
+						"buffer_size": 1313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1035,
+								1038
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 663.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "routes/settings.js",
+					"settings":
+					{
+						"buffer_size": 1440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								396,
+								396
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 361.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "views/home/settings.jade",
+					"settings":
+					{
+						"buffer_size": 467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "views/home/layout.jade",
+					"settings":
+					{
+						"buffer_size": 946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								686
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "routes/search.js",
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								765,
+								772
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "views/home/search.jade",
+					"settings":
+					{
+						"buffer_size": 651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								581,
+								581
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "routes/tweet.js",
+					"settings":
+					{
+						"buffer_size": 636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								518,
+								518
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"setti",
+				"routes/settings.js"
+			],
+			[
+				"homeuser",
+				"views/home/user.jade"
+			],
+			[
+				"homei",
+				"views/home/index.jade"
+			],
+			[
+				"lay",
+				"views/home/layout.jade"
+			],
+			[
+				"bo",
+				"public/css/bootstrap.css"
+			],
+			[
+				"boot",
+				"public/css/bootstrap.css"
+			],
+			[
+				"use",
+				"routes/user.js"
+			],
+			[
+				"index",
+				"views/site/index.jade"
+			],
+			[
+				"sendphp",
+				"/C/users/tisho/appdata/local/temp/sublime-sftp-browse-1386111268/helpcredit/hc_forms/send.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,38 @@
+doctype html
+html(lang='en')
+	head
+		title BakoTweet
+
+		link(rel='stylesheet', href='/css/bootstrap.css')
+		link(rel='stylesheet', href='/css/style.css')
+	body
+		.navbar.navbar-inverse.navbar-fixed-top
+			.container
+				.navbar-header
+					a(href='/home').navbar-brand BakoTweet
+				.navbar-collapse.collapse
+					form(action='/search', method='post').navbar-form.navbar-left
+						.form-group
+							input(type='text', name='username', placeholder='Find more Bakos').form-control
+						div(style='margin-left: 5px;').form-group
+						button(type='submit', style='margin-left: 5px;').btn.btn-primary Search
+					ul.nav.navbar-nav.navbar-left
+					ul.nav.navbar-nav.navbar-right
+						li
+							a(href='/allusers') ViewAll
+						li
+							a(href='/settings') Settings
+						li
+							a(href='/logout') Logout
+
+		.jumbotron
+			.container
+				block header
+
+		.container 
+			block content
+
+		.container
+			hr
+			footer
+				p copyright BakoTweet 2014

@@ -1,0 +1,15 @@
+extends layout
+
+block header
+	.col-xs-3
+		p #{user.username}
+		- if (user.image)
+			img(src='/#{user.image}', alt='#{user.username}', height='150', width='150').img-thumbnail
+		- else
+			img(src='default.jpg', alt='#{user.username}', height='150', width='150').img-thumbnail
+	.col-xs-9
+		p(style='color:red;') #{message}
+
+		form(method='post', enctype='multipart/form-data', action='/upload')
+			input(type='file', name='file')
+			input(type='submit', value='Upload')

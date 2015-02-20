@@ -1,0 +1,31 @@
+extends layout
+
+block content
+	.col-md-3
+	.col-md-9
+		if (users.length == 0 && !message) 
+			.col-md-2
+			.col-md-10
+				b
+					| No Bakos found.
+		else
+			.col-md-2
+			.col-md-10
+				b
+					p(style='color:red')= message
+			
+		each user in users 
+			.col-md-3
+			.col-md-9
+				.clearfix
+					.col-md-3
+						- if (user.image)
+							img(src='/#{user.image}', alt='#{user.username}', height='150', width='150').img-thumbnail
+						- else
+							img(src='/default.jpg', alt='#{user.username}', height='150', width='150').img-thumbnail
+					.col-md-9
+						a(href='/user/#{user._id}') #{user.username} 
+						div(style='margin-top:20px')
+			hr
+				
+				

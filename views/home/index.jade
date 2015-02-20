@@ -1,0 +1,61 @@
+extends layout
+
+block header
+	.col-md-6
+	.col-md-6
+		p(style='color:red;')= message
+
+		form(action='/tweet', method='post')
+			textarea(rows='3', name='text').form-control
+			button(type='submit', style='float: right; margin-top: 10px;').btn.btn-primary Post
+
+block content
+	.col-md-6
+		.well
+			.clearfix
+				.col-md-3
+					- if (user.image)
+						img(src='/#{user.image}', alt='#{user.username}', height='150', width='150').img-thumbnail
+					- else
+						img(src='/default.jpg', alt='#{user.username}', height='150', width='150').img-thumbnail
+				.col-md-9
+					h3 #{user.username}
+
+			hr
+
+			table.table.table-bordered
+				thead
+					tr
+						th #{tweets}
+						th #{follows}
+						th #{followers}
+				tbody
+					tr
+						td Tweets
+						td Follows
+						td Followers
+
+
+	.col-md-6
+		.col-md-6
+		.col-md-6
+		if (posts.length == 0)
+			.clearfix
+				.col-md-2
+				.col-md-10
+					b
+						| Please post something #{user.username}
+
+		each post in posts
+			.clearfix
+				.col-md-2
+					- if (post.image)
+						img(src='/#{post.image}', alt='#{post.author}', height='150', width='150').img-thumbnail
+					- else
+						img(src='/default.jpg', alt='#{post.author}', height='150', width='150').img-thumbnail
+				
+				.col-md-10
+					b
+						a(href='/user/#{post.author_id}') #{post.author}
+					p #{post.content}
+			hr
